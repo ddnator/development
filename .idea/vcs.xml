@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/development" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prg02-eindopdracht" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prg02-lesopdrachten" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prg02-werkmap" vcs="Git" />
