@@ -1,0 +1,79 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 39
+        length: 7
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 39
+        initialized_from_dependency: false
+        encrypted_possible_answer: IadgcSGXWWnAhHy/g+ozQDzCQTjVe/kR+wuQE+CPQBk=
+        selected: true
+        status: Solved
+      - offset: 234
+        length: 151
+        placeholder_text: |-
+          //Find all li items
+              let li = document.getElementsByTagName("li");
+          
+              //Add event listener to all items
+              for (let i = 0; i < li.length; i++) {
+                  li[i].addEventListener('click', liClickHandler);
+              }
+        initial_state:
+          length: 213
+          offset: 227
+        initialized_from_dependency: false
+        encrypted_possible_answer: mwq8mVI3FMmQdUYbaS1UMzbOQH0UbmIYcermjakF+VvJ0oJkvXVM5vKRzFAwadOtCERU1BR8/bxFaC4/XsfOYlTopYlRu1aynkpmW2HcVC+hYFGaXHFJD0D0NZZ5kr84DHGeeSdIV9mUZbDBoLWQeXWk7LHsZczgSs36it+N6DohCgIqJ6srBXtyoFqG0/dZ
+        selected: true
+        status: Solved
+      - offset: 640
+        length: 25
+        placeholder_text: |-
+          //Retrieve the whole list
+              let ul = document.getElementById('todo');
+        initial_state:
+          length: 71
+          offset: 695
+        initialized_from_dependency: false
+        encrypted_possible_answer: HfrmbJYO69o+yz4xEEUBxWtuZ1J1Iabx5ExLxqqpig6VmsPRDtgK5xP9GI5PQ7Hg0YCOw+WPkYir04WrOQwGXw==
+        selected: true
+        status: Solved
+      - offset: 768
+        length: 0
+        placeholder_text: "li.addEventListener('click', liClickHandler);"
+        initial_state:
+          length: 45
+          offset: 873
+        initialized_from_dependency: false
+        encrypted_possible_answer: k935ABoIJUmCDRZNxDOqWF13VWgsFUZficrMkIcGrvCTcEJUIqsqutSBXc9pGTwM
+        selected: false
+        status: Solved
+      - offset: 1144
+        length: 84
+        placeholder_text: clickedItem.classList.toggle('yellow');
+        initial_state:
+          length: 39
+          offset: 1294
+        initialized_from_dependency: false
+        encrypted_possible_answer: fa3NET78hnPy9zTFjA2HeByEFJ2KO7t+d1K3X/jk/bLnCN6wvvvcMYbElIEiL1GGJGO1FvOj353xZlKkNFxxlSuWDkwFS4BQff+nvBOLKyuLmVofdPrYe+2cFu9uNc84sXw7TXj0x5KIVjLo4vOFf694kDL+Xmfj+886HY+55+edzOz/DEAxI+bPzeHXynEF
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: style.css
+    visible: true
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 04 Mar 2026 22:39:46 UTC"
+record: -1

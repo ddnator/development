@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 476
+        length: 25
+        placeholder_text: //Los de opdracht hier op
+        initial_state:
+          length: 25
+          offset: 476
+        initialized_from_dependency: false
+        encrypted_possible_answer: rOVHgLSBS4x6JxmRVXtbgYgoiT3P4SWNpfX5Q6tupJltnS6wz+bo+VfXV6pGQFkALDy7TUIpb5VkyQwspqcEQ6mU5mkUwWs8Qn3xqPajE/8s5tT6ex7n8mgu+DJUOidsM7gm1RqPVU3MxVFMwe6RlQ==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 25 Feb 2026 14:13:05 UTC"
+record: -1

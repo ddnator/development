@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 17
+        length: 369
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 17
+        initialized_from_dependency: false
+        encrypted_possible_answer: apNAW0xZu6GOW15EFyysWXXQXJShoT9KUJfKG4vtTf3JhAw1bbu09hpkLU4MBron/8uCS/gZ/QVCfXAVcbtimkEH6ZPcBqT9dU/TgRbfHkXgrsqIVwCnbR35wc7Xt3ZpfB7q2d3L/jODLrF41tDiNKJPAl9c2+rzfTdQnospvBdf2/kaLf3pC9u6k18smZesS3cqgBgP08h6yLVy+9flBAWyf1Tcfs5IrnfR4oKGCDDDOnfaMcZDbve93sX/F5erA/14Uck0eqDdrll1ezlx7RFjQ9Z/bZqZmS/WOnZ0p/RObtv/Z5LJDwBEoUQ1hcViYXTBXXNTRK3V0T4e4ceJ4EvRq4M3u0H1X4CWeqJ8+BnNt7xh6z1nRFgkuF4TH/OihMZoU5NNk+8khsVyGjwtR4gsMcVz9P8LgnyZvjgc1koI+rGRxqsGJQNm5QdH1IdIjzTykzuYOCFG/RVacpDJr3nNsBlIWDQ15UvMTlbPHiBtoEKbLoZ+/PmOYPSXD7IWncHaurlssA460SJclukl0NFdk9MdR0CoWatbf+r/Nrs=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 25 Feb 2026 13:47:06 UTC"
+record: -1

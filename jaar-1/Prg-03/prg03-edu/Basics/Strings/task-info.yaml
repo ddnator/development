@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 25
+        length: 21
+        placeholder_text: //Hier komt jouw code
+        initial_state:
+          length: 21
+          offset: 25
+        initialized_from_dependency: false
+        encrypted_possible_answer: hJVHKinE/+TNmmNH5cP+5E1L56ikb2loDxBhqTg28VBb5urXTbImU7W3riw3dU0i2hOk/F/ZwQ88nv1/lzEIM42Na0v4fWy3Ub+npCntd86DVCgdUbhPCSgvhnKaQjuxvDwvC5siP7TLWUY1CjtoU79+yw0DCm5cQYpxHPZCVoJY2fegLkzUaUDEMCuX5ZwQ11mQhTjvqJcawnMkdJOD5w==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 24 Feb 2026 11:36:54 UTC"
+record: -1

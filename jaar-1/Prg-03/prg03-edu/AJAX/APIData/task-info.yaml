@@ -1,0 +1,107 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 116
+        length: 1657
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 116
+        initialized_from_dependency: false
+        encrypted_possible_answer: dA48MQNxH0BIss0UpgmQd1cTxQ6WViLJg3EGRAZMVPY=
+        selected: true
+        status: Solved
+      - offset: 1880
+        length: 46
+        placeholder_text: "button.addEventListener('click', getPokemons);"
+        initial_state:
+          length: 46
+          offset: 223
+        initialized_from_dependency: false
+        encrypted_possible_answer: Z6ejPsJR/bqBjxKjvrlOnirrxRy8+3hBSEgSLhhML05e1cYYUTKiGncSYtSlapS43IqKPIywG4UXKOwa0HwVlw==
+        selected: true
+        status: Solved
+      - offset: 1976
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 319
+        initialized_from_dependency: false
+        encrypted_possible_answer: cIsT1WOEIlRi5YYDMO+Yxjnc4F/YNglD6uAmzqn+nXNm/fUuY/DwlBydcitmVikNN6DKwXIfXTiMVi4hVNVMeO2xluqwnkZwvv0PMuck2XMJtw2cIRxZn6AMZZ/Ke6qXrVNQjyqY/SRLKzaY0e7bDlUwfy2MmAMWWGe7P37KWpDBE47goWJa5RvZ3yVuOhKeWOQAFHmd6xM+XeIXrxU2lQ==
+        selected: false
+        status: Solved
+      - offset: 2033
+        length: 303
+        placeholder_text: |-
+          function getPokemons() {
+              fetch(apiUrl)
+                  .then((response) => {
+                      if (!response.ok) {
+                          throw new Error(response.statusText);
+                      }
+                      return response.json();
+                  })
+                  .then(getPokemonsSuccessHandler)
+                  .catch(getPokemonsErrorHandler);
+          }
+        initial_state:
+          length: 303
+          offset: 376
+        initialized_from_dependency: false
+        encrypted_possible_answer: nnToIrZ2ICDoEUN2V36mJq8EeDZlDYIrkrz3gCcRREEOt723FRRpnvpWSUFjlWD0Th36ae3AS7Xz+9KUkDa6tJNYfEY8peqLsMv5ZtEBa7YZABEMum+W6B0IrpEN3XgpZ7QKl73NmJD8cNJXx6uCGWDBYUudSggIyBZncDiYlvtDq7EaArfZdvPe32NepbYB4BlMyR7SHSLykRJuuaqgSSYsv6p0wQyuQtzjOR4oKfx1icso1S7EIh0/WVg1/BAX2aVhD+ILvrlc/69HCcb9/d1OJ5fee5J9ZaSLdj4HEdn5QvD3VVXaYjC3ge8iJH74B5Wba4jSfZB9+ZzR+F65nHBmUm28KaP8Uog7rp5t7WbAE4YocRZljfndzFFUa8QAto+pNHU6ptVDQigq9rjsYzVydiWICyLy3846BapOckk=
+        selected: false
+        status: Solved
+      - offset: 2474
+        length: 18
+        placeholder_text: console.log(data);
+        initial_state:
+          length: 18
+          offset: 817
+        initialized_from_dependency: false
+        encrypted_possible_answer: lPfX1svnsiJ7dHkWFq+zkK5eYRqv3OUNEy0/vv2SflHWupK3wIIZA1R4eKKxjl47IUFNPg85N2gU8u8VbMoOJVfAwdIf9MUsRaeiKi0xUzfCCeOovmXQXrUYHgDtuvw9OVxvmh7670g1+Q6fIVZyoI0gOvt33JcONhQv1vSltu5CKbRJ84bTlHWUic4YwoVtdorn4ORXksPqvTQ0bPSgyhry3Dil9jmrGCtoF27ufvWmyDIQebUOX4lxXySoBpRCEY0xSkk7q9Wb/anmSm8ZjlQtt90Y50PTNbrRjewJ5axtoBfSuH7mBCY4axDesCb3RrTx6X3zZ0h6mskEQeORnF8epHN81bDm/A+quP7CiBp5BbEru7NNCNmkpjX8t7QuwsDG8pYrmd4inX2Kjh8gEsDqKuS6JfuY3GuY9sMdJLLWmff0TZkF/5iEe/SQ2aibZGL/8pPjZof0hzPf1DB50+BYqiIZNE0BxHUIO6MqjlhkKV5AhXXHswZJQlYXuyrcmfX9E5Us+/do0gsiy0usIYeWmEUQe5afDZbNiybdwaK7ZNE3NQBSc0EGDMy/8nP7jFt+4aNSkyESxraKg1sGiMwPkptfr7JCyNFvlCgtnyYNXIB98YjsNkXW8jSb8nYp74LdoMRqpk7uCIXx1uulTR8VSqScpk4JER5elmVBgjZ6nVNW3EEkUNc7S+ZFp5JVJVoAYOUwJskJDKh56QT4BefMBy/jikEmI27iSU9xlhRN7S6Me2DOdp5Exp9lxeYGxsF1MH849DEDe5BYTLGpyKFuMtdEcw40uLI1ktHOJNhrYrwvfevTW/Mf0UWU+LvAgMxxw4mlLnZWydTdhtjEwS+piYNG9xYvkc6yMQYiSRpZ5E8ei2jGWtOwvv9ZGPOnOMRU25CqGwMxbLWkK+ENOP6w50fd9ew53IwjKSoqlnixUHx26lWEK8RZ5xNLtaAGmXA710EqTKw7JhFvaRlImZKV9cZifRJT1e/F3WRToOuO0pzDtNxhsQ4P90n8QaTB
+        selected: false
+        status: Solved
+      - offset: 2495
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 838
+        initialized_from_dependency: false
+        encrypted_possible_answer: nyNTf9V3FZ7qeulGoMQQbpCCneHacyGx9sRpu6g/yAF2MoIVVjx1tF3DGDZ+ruombNBT7ORpGtuFXc26ICvI0odETUAAf+PScYYXmjfbbhvua/mdGTjnhK8NMJlupmMyMKjHS0R1go40Gu85tjUmxKPcktyfq0uHgpDkct0Za6mB2yztD7QrVwPBLWaTrnWoItU8tNAHvEU8C17EM2au8eNTF0jF2jA3y+fDqOzYmnGLY6xWwWg6ywWh9GYeZfO8f+Z23gSASQfKTnwgMGg/ces8h7GNFABcNrBRuLKhTdwVE88NwxD2qEhv14KLDAnsL5xpMI62BpGu8N5Vx3+gEhoHWGF1+sM9u2s81qDcVGx8R1zOlPNJtRp7mOKxy970za8zKa95z53PF7X3sUmz7xo4vqt2xB+fRlRZ9GT6gE1iMiFUAEmurKQ686anCp1SRqY5W9rku/3qHY1xKlCbLrV5/OdcDOOlMI8dWyVm1+tx+gtZXxCqFe8E9iv7PaeV1MVqKioMxAZXUi5F4QUlPR78bDS14TQhSyIHFlnxt/5UeG51SmOV/eBVN0uleDq2GjUng8donAnea1hMA8pT2ypB1XOgaH26rgLvKEXrP+lHGhBreQBhOW+Jg60nQ9oDc3q1xgU8Z3h+rUdJUOabCjp27py5kgEWO5xjBYFyMmqqG4sbrJFN6I87rI51hm4FC36dzvWtzkdtU38a+igAuQ3jkrrEZaZUDrO2ZLD9NpXC8RX45alD15g6G7Z/xnJVqEj3TcBQoucIJJ6jjoT3dlWqjyzLkGtMzoG12KFbrV9cB4W5h7Kyikqfj9k9nEhv3dGN+/jS40Dlpj1mB+EnXbRrxH6rxYHS1k1CAPeLBlOkFbqbocihQxDFWR3LkkXS0CGGDCouivKRP0LQQLlcn5JFjmdERZ3InK4B5aamer8NE2Pzt7YQc2AaJCsVDIcq
+        selected: false
+        status: Solved
+      - offset: 2658
+        length: 67
+        placeholder_text: |-
+          function getPokemonsErrorHandler(data) {
+              console.error(data);
+          }
+        initial_state:
+          length: 67
+          offset: 1001
+        initialized_from_dependency: false
+        encrypted_possible_answer: nnToIrZ2ICDoEUN2V36mJsC9UtMJlQqRivTxF6E/eRls/pT6cTFG6GAhIXdQCdv5qu9Kaf6I+8S6lYgTWPs8B6zvzB4PFmMuW544x76+D2k=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+  - name: pokemon.json
+    visible: false
+    learner_created: false
+  - name: pokemon-detail.json
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 11 Mar 2026 12:17:23 UTC"
+record: -1

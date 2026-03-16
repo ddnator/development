@@ -1,0 +1,23 @@
+type: marketplace
+title: PRG03 - Javascript
+language: Dutch
+summary: |
+  This course is developed for first year students at the University of Applied Sciences in Rotterdam.
+  It's completely written in the Dutch language to make sure feedback and description are understandable for students
+  who are introduced into the Javascript landscape. As background information, the students have knowledge of basic
+  HTML, CSS, PHP &amp; MySQL code. The context of the course is divided over 6 main subjects that we categorise as essential.
+  All the gathered knowledge from this course is needed to be able to develop their final assignment.
+programming_language: JavaScript
+content:
+  - Basics
+  - Functions And Objects
+  - DOM
+  - Events
+  - Web APIs
+  - AJAX
+additional_files:
+  - name: package.json
+  - name: package-lock.json
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/17586-prg03--javascript/reviews
+yaml_version: 5

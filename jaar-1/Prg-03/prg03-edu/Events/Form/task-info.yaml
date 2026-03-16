@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 209
+        length: 45
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 156
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3hHr7oI3gfnkGaRL4DV6wJRJFI3awLsEnuFgwbltNqXtKDqYXiqHO6tqFiMtKJfz+ZlqDt/Xye/P9+U6m1kGVk4AMki/qvVu82qn1amIIIiTTfWPfvqey+rsgkL+rTepTKdTwDL3DDXY2ROWZUiC4A==
+        selected: true
+        status: Solved
+      - offset: 335
+        length: 220
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 241
+        initialized_from_dependency: false
+        encrypted_possible_answer: SLYbWc1Z5KXFxwnD86dMKDIYkcZFc63GPYsw0dHJj+akKCXZjozhvCTy4qSgnQMhLTz01okGou403jYRPkMeLYwB/fmrpLDFkM5OzelHqOZL79oTXyASiXxbeWe14V9A9jN7LioOHEpohk26PlDaDPB8ZmGn5iosRXrUFpmE6RQ1POHpVs+DQcG0s2MvgbikY66Hon0Iwy0AV7Py7MAyUA3OWDG9DQMbICdUy4UAsWXwfaLK5lXQiQkXsN61sGEXNvlta8UnXPoEotvQEo9raAM8x/o1K6O152U6Xor1nd7Fcb9oV7cBGRWDfeXYEtqm61VNF/8HqkmUHnq4d/rghCw5VEF4b+6JEKxDZMgS6NeKdt+g1mKv35koBy3ibH6vbRSFFfrdhjBY+3lJ58+s+xIfrAYehJeu9OTyZcW1o5itqGEaSuR1TQjLtg2FWpJn5pigYhbwYRFyBu1BKOqRmUHfV7cXlVOJlamMKtTAqBsKMTe828a9mCWRrcCy8gx496WySMVXD5GpEP2j4wvJebNwDSyqq1xopLERguaT8ziQyLEZCmPB36zPjqs6aBfOxRVBxeRgWgvZ1bE6BSvyOSVDVDTY2b+qmiYIjjHy8e4uGGXmlr1CxVyAVucpUwdnxMZLch+KPJpR7wwgb4V5DSXSRjBhMgFyRFy+zQixnpJqdZOjAvD5f4Ao5Ywg3lTbkUpmFHZhFX0RtVOHkyKgpTnlgHxsSXY0LJWBYdTIl6RzvptL5TMYwthILvtFpQ/p7v8mbt6WBxaLLl85cTsRNjtM3YnDHMu16XDDeGBH+KhVYTR131O3RzGkY74NZtiqth8HIzR/VCk9LHKH1vfiJw==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 04 Mar 2026 22:15:30 UTC"
+record: -1

@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 101
+        length: 53
+        placeholder_text: //Koppel de 2 global variabelen aan de HTML elementen
+        initial_state:
+          length: 53
+          offset: 101
+        initialized_from_dependency: false
+        encrypted_possible_answer: AmpzIZo2TX3MNrOYB/2ctyKef2/s55bQAJ2AxE2/D6cQ9JTYAI6RNTjBNI7C9Og6Majs8obFVNk2I+rkv4sUWjxIKsM7MSk4OD/Cgi8yN8hZABvZ/TlmqqpwZh91oAE/
+        selected: false
+        status: Solved
+      - offset: 431
+        length: 81
+        placeholder_text: //Click event op button
+        initial_state:
+          length: 23
+          offset: 336
+        initialized_from_dependency: false
+        encrypted_possible_answer: yHN5vID2e6F3yamyJKquA0TJjHFxcuqiWfGzY+yFuYXE6AiE5TahyYcyVTiqGoR+dRcQGiz6sEp8jWw3EjF1bg==
+        selected: true
+        status: Solved
+      - offset: 573
+        length: 229
+        placeholder_text: //Zorg ervoor dat de functie 'showCurrentLocation' wordt aangeroepen
+          op basis van de geolocation API
+        initial_state:
+          length: 100
+          offset: 420
+        initialized_from_dependency: false
+        encrypted_possible_answer: 87d0AA0lLtcbOpYGvSZ83LBD0HD24Ubq3EdyBLYZFySOd4w0f82dt5kCta7thKPLAsLPJ30LbQhLCphCDWBVg61qlf0CzSyMt8V2fg6kWbpp9r0Wc1oqBtrHpdDrUSBZ3+Odhn2+UBXO0f9LxU8IUeHqcNL/5+CAJoHJE7IOk3o=
+        selected: true
+        status: Solved
+      - offset: 980
+        length: 135
+        placeholder_text: //Plaats de latitude en longitude in de target HTML
+        initial_state:
+          length: 51
+          offset: 698
+        initialized_from_dependency: false
+        encrypted_possible_answer: XNJqWvdPhWHnyqc4S7FpQtX+Oa+vueFM0Wy/dobuvSX650JxwvM17INXUdHVFzz8Uae6nnAMKMarLLRdT9Ne5AE65+DGwU36vJrHY3/yjurLxKSiYXDlzn5jqc77819x
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 09 Mar 2026 22:52:31 UTC"
+record: -1

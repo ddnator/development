@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 149
+        length: 179
+        placeholder_text: //Create the loop here
+        initial_state:
+          length: 22
+          offset: 149
+        initialized_from_dependency: false
+        encrypted_possible_answer: TUgpE4jJeeOnbLnogAkRmxlYVTFlwH8eb+t/M5RTmNPBkken6+DJSxNaVtGx4oOqEsYXlHw4Kkj1gAg6bfG73FDy69nHfmSPQUq9qXrdVecJuz34fDQcsz47b+r3OCK+GDapn7NFHm6IShSQDn82HALgm3177BXPQ2X9UGPMyP0=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 24 Feb 2026 12:05:37 UTC"
+record: -1

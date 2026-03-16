@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 113
+        length: 127
+        placeholder_text: //Koppel HTML elementen aan de global vars
+        initial_state:
+          length: 42
+          offset: 116
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZiWdgeXVQZHMCVIfRzbPFBhifwmLOhYcx5UMHeR9NIc5VhqfHly7GO6SFITgtd5H4uDAduG6wx0oEVdGpj9iwJM16Wu71+ZjQNmC/j/Gm0VNo7jguZUDMIGiNVboHnvwl3WgsYM0KtUp4gEL4SQ+KbFUB5paWCqNB9OVBqyJ4Cg=
+        selected: true
+        status: Solved
+      - offset: 753
+        length: 20
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 671
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2W5sIqdS9GX+xSgP+SBop8XmxKT/S3EfbY1nlMSl+m/xiShOhVBx6n4xfK1TO+4RErN2pAN3tpjdxCP9QM2Sl30Nk7f5/17zyzCU2XZRkrSMcQpZaG7jfhcVsphwCROx12MLkHzskKSaj/DkQ5c1caCWlSIKHC92wuKdpmXvBT7raSrugGlgL6hxesYr2QSWe0IhTRdmyuEyV2lz10L0yKTTwwa81sJl93x2STl9mOgS7PgA0GyqPMRzCZOJWIp0td6yhcSL23LtEwEG93R1rsvB7EIounp3yiwrQgPfWoixnZy9YGg6z7tZGVi4Smtlbjkj5EerxhrSUARJlfp0ewdu6jKsvgL4nJqNHA+R2LJumoEroyNgvd6cSEmnqLOVvtrpe4wlzXvvR88jmpCXesbewqTh2lOz9tJDBS5Gbzhac0t5x3+78Zi6QIyBvafBjz77pJPgub7CjlziiaBeRuZsSU38D83LDP6hyemQ8hgjpbBnqfZn1i2ttkadGgZEnRjGaWVKJjFuoW0ArJ+MOUg99SdjUvn0jMdXNWpaReM=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 09 Mar 2026 22:57:28 UTC"
+record: -1

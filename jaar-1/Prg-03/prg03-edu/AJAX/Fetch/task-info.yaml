@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 70
+        length: 81
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: DnbIkiCZpFZGV5p078Ep5aUBEaveK8dgfDUFtbINhthsc3nLD0yKDqoKQb1XCJM6
+        selected: true
+        status: Solved
+      - offset: 791
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 710
+        initialized_from_dependency: false
+        encrypted_possible_answer: EOVeyVtXq+U8JWNrnrFgq0+5FIvrp9vH32TemISMC7A=
+        selected: false
+        status: Solved
+      - offset: 939
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 858
+        initialized_from_dependency: false
+        encrypted_possible_answer: lxJtfnZYurwxwgU6VPcJjPDDB3qpUgW753+UCAnMjIE=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+  - name: pokemon.json
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 11 Mar 2026 12:16:30 UTC"
+record: -1

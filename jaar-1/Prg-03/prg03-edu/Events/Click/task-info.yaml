@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 265
+        length: 154
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 226
+        initialized_from_dependency: false
+        encrypted_possible_answer: HXDk9HfOvj6i54qw9SgR1yaChatS27K9K8yzvGDeDCuqQUCrx1p4ncnX8X1tvhWysvwkW3QKb1S1IkGapxTTeed6fUtn9ovf4OKMvvjQ6/dOZIbabaK+YjVpxUGIb5v47GltaOi3E18j8kB+f6HVoQU32HKsN/72sCIEODSORsVJUunIgOkr6OtBD51KtdjtUEgpjNqMwM5cbxiWsj79iRwrCDNE3m5+DfALOiJXwxO1jsNPxxJW+OO5fPkXkOVFayILljjr1yzB9UccRiOcOokQwa7VYv/u3zWHNchCMOY=
+        selected: true
+        status: Solved
+      - offset: 965
+        length: 49
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 660
+        initialized_from_dependency: false
+        encrypted_possible_answer: O5HKJ71yReuJI/oSNbC9QtPbuO4X3IxObfBvgHTqW51qGFW66vXi+IVYzxtWAIkG
+        selected: true
+        status: Solved
+      - offset: 1261
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 907
+        initialized_from_dependency: false
+        encrypted_possible_answer: IhAwd+Gz1EEUgWcK5DijfA4FG8dIcB0Krn8R5hEvnxUmjFgFcv8j8lYwN4JRhcc2Dtfh2IJw/oDBuGp2irnr/Q2v+bRAqYsh18mC+DcY9ByBsMfC2Nt/SQCdwNGItYKRAZfIkmfTz6zYqYCFfV5KHiq0D7achCkMtDiohdktSgZyNzOQwQ8+b8I+lXc0a+1sG0ruPjGHghe3IrZysOe+/Y82l7J3q+hwdXKfNvrHRqs=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+  - name: style.css
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 04 Mar 2026 22:34:49 UTC"
+record: -1

@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 227
+        length: 132
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 186
+        initialized_from_dependency: false
+        encrypted_possible_answer: jie/92yYsDe8wy9WEdI0Os25DONTKjOvjINbs5tCEzf+Vn7Tc/3AsfYfZqwqFgi4Y+QL7wmRx5QXgnrggayMtynbV6bm5/PQdUHSCnD6iaxlznPFvvNWiBl0aMzF+B3wbvVWRM13lAp5jDSZ1hEXbGw3+u3JVRm213XuoSWFtN36LKU2R1ecGHjRN6BihDoRdCIKoO2zhmHMNs41UXpcfsTsGIyKb/ME875jlzPy7KZe6whx3oTC9wGzCtI3YY2syn4x2Ezr27L9id+vzO7P19b5nAFatPJgPLUHywr0lMDOBOY2Hx06TZwEd7RpeiAej0vTJ3IPZhngmNGVyfQNug==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: index.html
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 02 Mar 2026 23:06:09 UTC"
+record: -1

@@ -1,0 +1,74 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 49
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 49
+        initialized_from_dependency: false
+        encrypted_possible_answer: rkaD9T7NIGL8KrOpmccYjbt59mDbqwgvJ+/kVkqg8nBq9os5ScCVPh3wXugeqd106lbbDko+OX8No+dw931N7tQEUDbjfFqVCtvg70xwMXg=
+        selected: false
+        status: Solved
+      - offset: 68
+        length: 16
+        placeholder_text: /* Wat komt hier? */
+        initial_state:
+          length: 20
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: BzNUS/G1LGP8CPcAfOSEJGzQKmPr7R8mhTxDvfEOBrs=
+        selected: true
+        status: Solved
+      - offset: 92
+        length: 51
+        placeholder_text: //Schrijf de code zoals gevraagd in de beschrijving
+        initial_state:
+          length: 51
+          offset: 96
+        initialized_from_dependency: false
+        encrypted_possible_answer: PzXKrS3K+aWbA40LHmdfqFHGmgMRFZ9sPo+22T2ecDU=
+        selected: false
+        status: Solved
+      - offset: 205
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 152
+        initialized_from_dependency: false
+        encrypted_possible_answer: a9QCJSkh1VnfmDh+of5z7ifHBKs5HN6aqb1Fcv6dIcBA6h1dJfgre3I0VyrCJjaq
+        selected: false
+        status: Solved
+      - offset: 237
+        length: 5
+        placeholder_text: /* Wat komt hier? */
+        initial_state:
+          length: 20
+          offset: 184
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4vkk6hu0r61E94q9b71HNA==
+        selected: false
+        status: Solved
+      - offset: 250
+        length: 51
+        placeholder_text: //Schrijf de code zoals gevraagd in de beschrijving
+        initial_state:
+          length: 51
+          offset: 212
+        initialized_from_dependency: false
+        encrypted_possible_answer: eIp9OaEZGPDbcx3ZLCGegVOYOpQ1qcuwsJc4bJyyteufbm2OlYW1kjUbZHZ7t3cpTdIFHjV2BSHMVUSkHM53Nh9znsccRTEOVkEgUZrXmtUu0zhCByLXkcFnAC8Y7hF9SZWJBKV0/qmAVkv6pd5dz2mXaGf0qLetLFj2tapDPNg=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 25 Feb 2026 13:35:27 UTC"
+record: -1
